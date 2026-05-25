@@ -3,13 +3,9 @@
 
 <head>
 
-<script src="https://cdn.jsdelivr.net/npm/@emailjs/browser@4/dist/email.min.js"></script>
+<title>Fortia Citizenship Portal</title>
 
-<script>
-(function(){
-emailjs.init("vCxYa9RiozOMHbb0I");
-})();
-</script>
+<link rel="stylesheet" href="style.css">
 
 </head>
 
@@ -42,7 +38,7 @@ emailjs.init("vCxYa9RiozOMHbb0I");
 Please click the
 <strong>"E Citizenship"</strong>
 button below to apply for a
-<strong>Fortian Citizenship, or contact kingdomoffortia.og@outlook.com</strong>
+<strong>Fortian Citizenship</strong>
 
 </p>
 
