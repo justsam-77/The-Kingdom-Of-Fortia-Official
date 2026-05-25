@@ -25,7 +25,8 @@ alert(
 
 .catch(function(error){
 
-alert("Email error: " + error);
+alert("Email error: " + JSON.stringify(error));
+console.log(error);
 
 });
 
