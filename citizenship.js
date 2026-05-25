@@ -3,9 +3,13 @@
 
 <head>
 
-<title>Fortia Citizenship Portal</title>
+<script src="https://cdn.jsdelivr.net/npm/@emailjs/browser@4/dist/email.min.js"></script>
 
-<link rel="stylesheet" href="style.css">
+<script>
+(function(){
+emailjs.init("vCxYa9RiozOMHbb0I");
+})();
+</script>
 
 </head>
 
